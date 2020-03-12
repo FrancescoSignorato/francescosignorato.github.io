@@ -163,7 +163,7 @@ nav.navbar.fixed-to-top{
 	z-index: 9999;
 }
 
-.navbar-default .navbar-nav>li>a {
+.navbar-default .navbar-nav>li>a {s
 	color: #fff;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -229,7 +229,7 @@ Home sections
 }
 
 .bg-dark {
-	background: #575757;
+	background: #273746;
 }
 
 
@@ -787,7 +787,7 @@ ul.social-network li a i{
 Footer
 ================================= */
 footer {
-	background: #00c1c1;
+	background: #273746;
 	color: #fff;
 	padding: 50px 0 30px;
 }
