@@ -164,7 +164,7 @@ nav.navbar.fixed-to-top{
 }
 
 .navbar-default .navbar-nav>li>a {s
-	color: #fff;
+	color: #273746;
 	font-weight: 700;
 	text-transform: uppercase;
 }
@@ -182,7 +182,7 @@ nav.navbar.fixed-to-top{
 
 /* brand / logo */
 .navbar-default .navbar-brand{
-	color: #fff;
+	color: #273746;
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: 2em;
