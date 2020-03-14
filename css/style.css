@@ -156,6 +156,7 @@ nav.navbar.fixed-to-top{
 }
 
 .navbar-default{
+    background-color: #E5E8FC;
 	border: none;
 	border-bottom: none;
 	opacity: 1;
