@@ -399,11 +399,11 @@ Intro
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #00c1c1;
+  border: 2px solid #F9AA33;
 }
 
 #intro .btn-get-started:hover {
-  background: #00c1c1;
+  background: #F9AA33;
   color: #fff;
   text-decoration: none;
 }
