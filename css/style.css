@@ -270,6 +270,8 @@ Intro
   width: 100%;
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.3);
+  position: relative;
+  z-index:0;
 }
 
 #intro .item {
@@ -318,7 +320,7 @@ Intro
 
 #intro h2 {
   position: relative;
-  z-index:0;
+  z-index:999;
   color: #fff;
   margin-bottom: 30px;
   font-size: 48px;
@@ -328,7 +330,7 @@ Intro
 
 #intro p {
   position: relative;
-  z-index:0;
+  z-index:999;
   width: 70%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
