@@ -73,20 +73,21 @@
 
           <!-- Slide 1 -->
           <div class="item active">
-            <div class="carousel-background"><img src="img/intro/1.jpg" alt=""></div>
+<!--            <div class="carousel-background"><img src="img/intro/1.jpg" alt=""></div>-->
+              <div id="particles-js">
+              </div>
+
+              <script src= "particles.js"></script>
+
+              <script>
+                  particlesJS.load('particles-js',
+                   'particles.json', function() {
+                  console.log('particles.json loaded...');
+                  });
+              </script>
             <div class="carousel-container">
               <div class="carousel-content">
-                  <div id="particles-js">
-                  </div>
 
-                  <script src= "particles.js"></script>
-
-                  <script>
-                          particlesJS.load('particles-js',
-                           'particles.json', function() {
-                          console.log('particles.json loaded...');
-                          });
-                     </script>
                 <h2 class="animated fadeInDown">Francesco Signorato</h2>
                 <p class="animated fadeInUp"> "Genius is one percent inspiration and ninety-nine percent perspiration." Thomas Edison</p>
 
