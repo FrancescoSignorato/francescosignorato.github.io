@@ -50,10 +50,14 @@
     </div>
   </nav>
 
-  <section>
-    <div id="particles-js"></div>
-  </section>
 
+  <div id="particles-js"></div>
+
+  <script>
+      particlesJS.load('particles-js', 'particles.json', function() {
+      console.log('callback - particles.js config loaded');
+      });
+  </script>
   <!-- intro area -->
 <!--  <section id="intro">-->
 <!--    <div class="intro-container">-->
@@ -149,7 +153,7 @@
   <!-- Template Custom Javascript File -->
   <script src="js/custom.js"></script>
 
-  <script src="particles.js"></script>
+  <script src= "http://www.jsdelivr.com/#!particles.js"></script>
 
 </body>
 
