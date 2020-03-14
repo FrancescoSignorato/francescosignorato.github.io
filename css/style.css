@@ -320,7 +320,7 @@ Intro
   position: relative;
   z-index:999;
   color: #fff;
-  margin-bottom: 150px;
+  margin: 300 auto 0 auto;
   font-size: 48px;
   font-weight: 700;
 
@@ -332,7 +332,7 @@ Intro
   width: 70%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
-  margin: 0 auto 150px auto;
+  margin: 0 auto 30px auto;
   color: #fff;
 }
 
