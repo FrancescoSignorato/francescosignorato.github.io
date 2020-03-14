@@ -387,6 +387,7 @@ Intro
 }
 
 #intro .btn-get-started {
+  z-index:999;
   font-family: "Raleway", sans-serif;
   font-weight: 500;
   font-size: 14px;
