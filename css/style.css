@@ -160,7 +160,7 @@ nav.navbar.fixed-to-top{
 }
 
 .navbar-default{
-    background-color: #272935;
+    background: #272935;
 	border: none;
 	border-bottom: none;
 	opacity: 1;
