@@ -20,7 +20,7 @@ General
 body{
 	text-align: center;
     font-family: Montserrat,sans-serif;;
-	font-size: 1rem;
+	font-size: 1.5rem;
 	line-height: 1.6em;
 	max-width: 100%;
 }
@@ -428,7 +428,7 @@ About
 #about .content h2 {
   color: #333;
   font-weight: 300;
-  font-size: 2.25;
+  font-size: 2.25rem;
   text-align: left;
   font-family: Montserrat,sans-serif;
 }
@@ -445,7 +445,7 @@ About
 #about .content p {
   line-height: 26px;
   text-align: left;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-family: Montserrat,sans-serif;
 }
 
