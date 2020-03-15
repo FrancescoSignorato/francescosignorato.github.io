@@ -452,13 +452,11 @@ About
   margin-bottom: 0;
 }
 
-#about .ul-edu{
-    list-style: none;
+#about .bio-title{
+    display: block;
+    text-align:center;
 }
 
-#about .grad-cap{
-    content:"\f19d";
-}
 
 /* ================================
 Team
