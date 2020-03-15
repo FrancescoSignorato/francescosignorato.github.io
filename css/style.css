@@ -190,8 +190,7 @@ Home sections
 }
 
 .section-heading h2 {
-	font-size: 3rem;
-	text-transform: uppercase;
+	font-size: 4rem;
 }
 
 .section-heading .heading-line {
@@ -426,9 +425,9 @@ About
 }
 
 #about .content h2 {
-  color: #333;
+  color: #f76497;
   font-weight: 300;
-  font-size: 2.25rem;
+  font-size: 2.8rem;
   text-align: left;
   font-family: Montserrat,sans-serif;
 }
@@ -445,7 +444,7 @@ About
 #about .content p {
   line-height: 26px;
   text-align: left;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-family: Montserrat,sans-serif;
 }
 
