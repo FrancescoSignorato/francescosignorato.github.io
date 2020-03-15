@@ -122,6 +122,7 @@ Navbar
 ================================= */
 
 nav.navbar{
+    overflow: hidden;
 	position: fixed;
 	top: -72px;
 	margin-bottom: 0px;
@@ -132,7 +133,7 @@ nav.navbar{
 }
 
 .navbar-nav{
-	float: right;
+	float: left;
 }
 
 nav.navbar.fixed-to-top{
