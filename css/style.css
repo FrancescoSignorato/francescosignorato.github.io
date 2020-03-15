@@ -447,14 +447,14 @@ About
 #about .content h2 {
   color: #333;
   font-weight: 300;
-  font-size: 24px;
+  font-size: 2.25;
   text-align: left;
 }
 
 #about .content h3 {
   color: #777;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 1.5rem;
   line-height: 26px;
   font-style: italic;
   text-align: left;
@@ -463,6 +463,7 @@ About
 #about .content p {
   line-height: 26px;
   text-align: left;
+  font-size: 1rem;
 }
 
 #about .content p:last-child {
