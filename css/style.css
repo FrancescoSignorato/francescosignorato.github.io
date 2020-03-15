@@ -459,10 +459,14 @@ About
 }
 
 #about .bio-title h3 {
-    font-size:1.2rem;
+    font-size:3rem;
     color:#fff
 }
 
+#about .bio-title h2 {
+    font-size:1.2rem;
+    color:#fff
+}
 
 /* ================================
 Team
