@@ -469,6 +469,20 @@ About
     font-weight:300
 }
 
+#about .portrait{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+#profile{
+    text-align: center:
+    padding: 30px 10px;
+    position: relative;
+}
+
 /* ================================
 Team
 ================================= */
