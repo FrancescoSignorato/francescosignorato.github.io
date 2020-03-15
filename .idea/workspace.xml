@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="616d6708-852f-492e-93d1-d6d9bf1033fe" name="Default Changelist" comment="comm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+            <state relative-caret-position="354">
+              <caret line="200" column="16" lean-forward="true" selection-start-line="200" selection-start-column="16" selection-end-line="200" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -303,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        <state relative-caret-position="354">
+          <caret line="200" column="16" lean-forward="true" selection-start-line="200" selection-start-column="16" selection-end-line="200" selection-end-column="16" />
         </state>
       </provider>
     </entry>

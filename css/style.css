@@ -20,8 +20,8 @@ General
 body{
 	text-align: center;
     font-family: Montserrat,sans-serif;;
-	font-size: 1.5rem;
-	line-height: 1.6em;
+	font-size: 1.2rem;
+	line-height: 1.8em;
 	max-width: 100%;
 }
 
@@ -190,7 +190,7 @@ Home sections
 }
 
 .section-heading h2 {
-	font-size: 38px;
+	font-size: 2.5rem;
 	text-transform: uppercase;
 }
 
