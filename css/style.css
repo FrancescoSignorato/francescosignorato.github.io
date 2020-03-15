@@ -449,6 +449,7 @@ About
   font-weight: 300;
   font-size: 2.25;
   text-align: left;
+  font-family: Montserrat,sans-serif;
 }
 
 #about .content h3 {
@@ -456,7 +457,7 @@ About
   font-weight: 300;
   font-size: 1.5rem;
   line-height: 26px;
-  font-style: italic;
+  font-family: Montserrat,sans-serif;
   text-align: left;
 }
 
@@ -464,6 +465,7 @@ About
   line-height: 26px;
   text-align: left;
   font-size: 1rem;
+  font-family: Montserrat,sans-serif;
 }
 
 #about .content p:last-child {
