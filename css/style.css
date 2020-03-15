@@ -19,8 +19,8 @@ General
 
 body{
 	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 14px;
+    font-family: Montserrat,sans-serif;;
+	font-size: 1rem;
 	line-height: 1.6em;
 	max-width: 100%;
 }
