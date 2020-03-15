@@ -122,7 +122,6 @@ Navbar
 ================================= */
 
 nav.navbar{
-    overflow: hidden;
 	position: fixed;
 	top: -72px;
 	margin-bottom: 0px;
