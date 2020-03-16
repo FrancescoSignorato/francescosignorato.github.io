@@ -107,6 +107,12 @@ margin, padding
   z-index:1000;
 }
 
+.back-to-top:hover {
+  background: #F9AA33;
+  color: #fff;
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   .back-to-top {
     bottom: 15px;
