@@ -162,7 +162,6 @@ nav.navbar.fixed-to-top{
 .navbar-default .navbar-nav>li>a {s
 	color: #fff;
 	font-weight: 700;
-	text-transform: uppercase;
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
