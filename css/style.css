@@ -97,7 +97,7 @@ margin, padding
 /* Back to top button */
 .back-to-top {
   position: fixed;
-  display: none;
+  display: block;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
   border-radius: 2px;

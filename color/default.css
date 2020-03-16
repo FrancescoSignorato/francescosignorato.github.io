@@ -5,23 +5,20 @@ a, a:hover {
 
 /* Back to top button */
 .back-to-top {
-  background: #272935;
   color: #fff;
 }
 
 
 .back-to-top:focus {
-  background: #272935;
   color: #fff;
 }
 
 .back-to-top:hover {
-  background: #272935;
+  background: #F9AA33;
   color: #fff;
 }
 
 .navbar-default {
-  background: #272935;
 }
 
 .form-control:focus {
