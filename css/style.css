@@ -131,6 +131,7 @@ Navbar
 ================================= */
 
 nav.navbar{
+    z-index:999;
     overflow: hidden;
 	position: sticky;
 	top: 0;
