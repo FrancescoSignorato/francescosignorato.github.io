@@ -141,7 +141,6 @@ nav.navbar.fixed-to-top{
 }
 
 .navbar-default{
-    background: #272935;
 	border: none;
 	border-bottom: none;
 	opacity: 1;
@@ -373,7 +372,7 @@ Intro
 
 #intro .btn-get-started {
   z-index:999;
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
