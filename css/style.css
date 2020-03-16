@@ -103,8 +103,11 @@ margin, padding
   border-radius: 2px;
   right: 15px;
   bottom: 15px;
-  transition: background 0.5s;
+  transition: 0.5s;
   z-index:1000;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  border: 2px solid #F9AA33;
 }
 
 .back-to-top:hover {
