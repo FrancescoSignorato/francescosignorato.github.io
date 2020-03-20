@@ -918,7 +918,7 @@ articles
     display: flex;
     overflow: hidden;
     margin: 0 20px 40px;
-    height: 100vh;
+    height: 50vh;
     background: '#fff' center center;
     background-size: cover;
     border-radius: 5px;
