@@ -928,10 +928,12 @@ articles
 }
 
 #articles .hcard-desc {
+    position: relative;
     width:70%;
 }
 
 #articles .hcard-text {
+    position: relative;
     display: inline-block;
     width:30%;
 }
