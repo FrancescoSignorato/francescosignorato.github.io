@@ -46,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="928" column="24" selection-start-line="928" selection-start-column="24" selection-end-line="928" selection-end-column="24" />
+            <state relative-caret-position="82">
+              <caret line="929" column="16" selection-start-line="929" selection-start-column="16" selection-end-line="929" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -296,13 +296,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/clients/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -338,10 +331,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="928" column="24" selection-start-line="928" selection-start-column="24" selection-end-line="928" selection-end-column="24" />
+        <state relative-caret-position="82">
+          <caret line="929" column="16" selection-start-line="929" selection-start-column="16" selection-end-line="929" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -927,6 +927,7 @@ articles
     border-radius: 5px;
     transition: all 0.5s ease;
     flex-direction: row;
+    width: 70vw;
 }
 
 #articles .hcard-desc {
