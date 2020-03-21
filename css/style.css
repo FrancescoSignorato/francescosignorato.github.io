@@ -916,9 +916,9 @@ articles
 ================================= */
 #articles .hcard {
     display: -webkit-flex;
-    display:         flex;
     -webkit-flex-flow: row;
-           flex-flow: row;
+    display: flex;
+    flex-direction: row;
     overflow: hidden;
     margin: 0 20px 40px;
     height: 50vh;
