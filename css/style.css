@@ -820,16 +820,16 @@ Footer
 ================================= */
 footer {
 	background: #F9AA33;
-	color: #051c2d;
+	color: #fff;
 	padding: 10px 0 10px;
 }
 
 footer a {
-	color: #051c2d;
+	color: #fff;
 }
 
 footer a:hover {
-	color: #fff;
+	color: #051c2d;
 	text-decoration: underline;
 }
 
