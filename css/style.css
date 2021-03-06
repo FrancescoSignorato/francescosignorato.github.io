@@ -819,17 +819,17 @@ ul.social-network li a i{
 Footer
 ================================= */
 footer {
-	background: #191970;
-	color: #fff;
+	background: #fff;
+	color: #ccc;
 	padding: 10px 0 10px;
 }
 
 footer a {
-	color: #fff;
+	color: #ccc;
 }
 
 footer a:hover {
-	color: #051c2d;
+	color: #ccc;
 	text-decoration: underline;
 }
 
