@@ -304,7 +304,7 @@ Intro
 #intro h2 {
   position: relative;
   z-index:999;
-  color: #fff;
+  color: #000000;
   margin: 350px auto 0 auto;
   font-size: 48px;
   font-weight: 700;
@@ -318,7 +318,7 @@ Intro
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
   margin: 0 auto 30px auto;
-  color: #fff;
+  color: #000000;
 }
 
 @media (max-width: 768px ) {
@@ -356,7 +356,7 @@ Intro
 
 #intro .carousel-control-prev,
 #intro .carousel-control-next {
-  color: #fff;
+  color: #000000;
   position: absolute;
   top: calc(50% - 15px);
 }
